@@ -4,9 +4,11 @@ A script help you test your code,when writting the OJ questions.
 ### How to install
 1. clone this repo.
 ```bash $ git clone https://github.com/bloodnighttw/OJAT.git ```
-2.  
+
+2.  cd to the project
 ```bash $ cd OJAT```
-3.
+
+3. run the script
 ```bash $ sh install.sh```
 
 ### How to use
