@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import subprocess
 from subprocess import Popen,STDOUT,PIPE
 from ojatlib import ojat_start,LanguageAction
